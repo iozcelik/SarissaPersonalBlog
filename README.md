@@ -1,6 +1,9 @@
 # Sarissa Personel Blog Template
 
 Sarissa Personel Blog Template is an open source, generic blog template for [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) with [DaisyUI](https://github.com/saadeghi/daisyui) component library desinged by iozcelik.
+
+[Live Preview](https://iozcelik.github.io/SarissaPersonalBlog/public/)
+
 ![screencapture-127-0-0-1-5500-public-2022-03-27-21_10_34](https://user-images.githubusercontent.com/10682780/160294797-649fd32f-3f96-47a0-ac2e-567a3b998a05.png)
 
 
