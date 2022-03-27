@@ -1,6 +1,6 @@
 {
-  "name": "astroblog",
-  "version": "0.0.1",
+  "name": "sarissapersonalblog",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "build": "postcss main.css -o public/main.css --watch"
